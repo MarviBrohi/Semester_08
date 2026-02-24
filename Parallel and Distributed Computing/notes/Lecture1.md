@@ -55,3 +55,36 @@ Example: College website - central server, many students access it
 All computers are equal
 More "truly" distributed
 Example: Torrent downloads - you download from many users simultaneously.
+# Cluster Computing:
+A group of SAME-TYPE of computers in ONE ROOM, connected with FAST cables, working as ONE SYSTEM.
+. Like 20 identical chefs working in one kitchen, all wearning same uniform, using same ingredients, following same head chef.
+# Key Components of Cloud Computing:
+Multiple Standalone Computers: Regular computers, each can work alone.
+Operating System: usually same OS on all(all linux or all windows).
+High-Performance Interconnects: Very fast cables connecting them.
+Middleware: Software that makes them work together.
+Parallel Programming Environments: Tools to writr programs that use all computers.
+Applications: The actual work being done.
+# Cluster Characteristics:
+Network: Faster than regular LAN(Local Area Network)
+Communication: Very fast, low delay(low latency)
+Coupling: Loosely coupled(not as tight as multi-core processors)
+Types of Clusters
+1. High Availability (Failover) Clusters
+Purpose: Keep services running even if some computers fail
+Real Example:
+Airline reservation system
+If one server fails, another takes over immediately
+Passengers keep booking tickets without noticing any problem
+2. Load Balancing Clusters
+Purpose: Spread work evenly across all computers
+Real Example:
+Flipkart during Big Billion Day sale
+Millions of users are distributed across many servers
+No single server gets overloaded
+3. Parallel/Distributed Processing Clusters
+Purpose: Solve big problems by dividing work
+Real Example:
+Weather forecasting
+Each computer calculates weather for one region
+All results combined for full forecast
