@@ -71,7 +71,7 @@ Online platforms suggesting practice questions based on student mistakes.
     Autonomous vehicles
 Example:
 Google Maps predicting traffic congestion.
-7. Cybersecurity
+7. Cybersecurity:
     Intrusion detection
     Malware detection
     Risk assessment
@@ -90,3 +90,4 @@ Result:
     Increased sales
     Better customer retention
     Higher satisfaction
+
