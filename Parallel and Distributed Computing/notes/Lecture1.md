@@ -88,3 +88,18 @@ Real Example:
 Weather forecasting
 Each computer calculates weather for one region
 All results combined for full forecast
+# Benifits of Clusters:
+System Availability: Redundant hardware and software.
+. Multiple servers, if one fails, others work.
+Hardware Fault Tolerance: Backup for disks, power supplies.
+. RAID disks-if one disk fails, data safe on others.
+OS & App Reliability: Multiple copies running.
+. Same application on multiple servers.
+Scalability: Add more servers as needed.
+. Add more servers when student enrollment increases.
+High Performance: many computers working together.
+. Research simulations finish faster.
+# Grid Computing:
+Connecting different types of computers from different places to create ONE BIG VIRTUAL COMPUTER.
+. Like different countries contributing resources to build a space station-each country brings different expertise and equipment, all working together for one goal.
+
