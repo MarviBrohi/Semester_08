@@ -102,4 +102,61 @@ High Performance: many computers working together.
 # Grid Computing:
 Connecting different types of computers from different places to create ONE BIG VIRTUAL COMPUTER.
 . Like different countries contributing resources to build a space station-each country brings different expertise and equipment, all working together for one goal.
+# Need of Grid Computing:
+Modern Science: Research needs massive computations, data analysis.
+Cost-Effective: Computer simulations cheaper than physical experiments.
+Complex Problems: Need more accurate solutions quickly.
+Data Visualization: Important for understanding results.
+Resource Utilization: use idle computers productivity.
+# Applications of Grid Computing:
+Weather Forecast: Combines data from satellites, ground stations, ocean buoys worldwide.
+Natural Disaster Detection: Earthquake prediction using seismic data from thousands of sensors.
+Physics Application: LHC (Large Hadron Collider) data processed across 42 countries.
+Drug Research:Simulate molecule interactions using computers worldwide.
+# Types of Grids:
+# 1.Computational Grid:
+Processing power for HTC(High Throughput) and HPC(High Performance)
+. SETI@Home-using idle home computers to search for aliens.
+# 2.Data Grid:
+Data Storage, discovery, handling, publication of Large Volumes.
+. Biomedical research sharing genomic databases globally.
+# 3. Collaboration Grid: 
+Better collaboration over internet.
+. Global climate researchers working together.
+# 4.Network Grid:
+Fault-tolerant, high-performance communication.
+. National research networks connecting supercomputers.
+# 5.Utility Grid:
+Ultimate form-sharing ANY resource.
+. Software, computing cycles,data,everything shared.
+# Utility Computing:
+.Pay for Computing like you pay for electricity- only for what you use.
+.Utility Computing is the concept, cloud computing is the practical implementation.
+.Like your electricity bill- you pay for the units you consume, not a fixed amount regardless of usage.
+# Key Features:
+.pay-Per-Use Pricing: Pay only for what you consume.
+.Data Center Visualization: Efficient use of resources.
+.Resource Utilization: Solve problem of idle resources.
+.Outsourcing: Let experts manage infrastructure.
+Web Services Delivery: Access services over internet.
+# Payment Models:
+.Same range of charging models as other utility providers: gas, 	electricity, telecommunications, water, television broadcasting.
+.Flat Rate:Fixed price regardless of usage.
+    .Netflix monthly subscription
+.Subscription:Regular payment for ongoing access.
+    .Microsoft 365 yearly payment
+.Metered:Pay based on measured usage.
+    .AWS-pay per hour of server use.
+Pay-as-You-go:Flexible, pay only when you use.
+    .Prepaid mobile recharges.
+# Pricing Factors
+Scale (how much you use)
+Commitment (long-term vs short-term)
+Payment frequency (monthly, yearly, etc.)
+# Distributed vs Grid vs Cluster vs Utility
+. Distributed Computing is managing or pooling the hundreds or thousands of computer systems to solve a large computational problem.
+. Grid computing has some extra characteristics. Efficiently utilization of a pool of  heterogeneous systems; more wide scale and geographically distributed.
+. Cluster computing consists of  homogenous hardware and OS; geographically connected by LAN
+. Utility computing is a service provisioning model; computing resources available for consumers as needed.
+
 
