@@ -158,5 +158,3 @@ Payment frequency (monthly, yearly, etc.)
 . Grid computing has some extra characteristics. Efficiently utilization of a pool of  heterogeneous systems; more wide scale and geographically distributed.
 . Cluster computing consists of  homogenous hardware and OS; geographically connected by LAN
 . Utility computing is a service provisioning model; computing resources available for consumers as needed.
-
-
