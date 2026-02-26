@@ -29,3 +29,34 @@ It turns unstructured visual data into structured, searchable information.
     .OCR (Optical Character Recognition): Converting handwritten or printed text from images into digital text documents.
     .Content Moderation: Automatically detecting and filtering unsafe or inappropriate content on social media platforms.
 
+# How does Computer Vision work?
+Computer vision needs a lot of data. It analyzes this data repeatedly until it can recognize and distinguish images. For example, to train a computer to recognize car tries, you need to show it many pictures of tires, it learns to identify a tire, even spotting defects.
+Two key technologies make this possible: deep learning and convolutional neural networks (CNNs).
+. Machine learning uses models that allow a computer to learn from visual data. By feeding enough data into the model, the computer teaches itself to distinguish one image from another. This means it learns on its own, without needing explicit programming for each image.
+. A CNN helps the model by breaking down images into tiny parts called pixels. Each pixel gets a tag or label. The CNN uses these labels to perform convolutions, which is a mathematical operation that helps the model make predictions about the image.
+. The neural network checks the accuracy of its predictions through many iterations until it starts getting them right. This process enables the model to recognize images similar to how humans do.
+. Think of it like a person spotting an image from a distance. A CNN first notices hard edges and simple shapes, then adds more details with each iteration.
+. While CNNs are used for single images, a recurrent neural network (RNN) is used for videos. RNNs help computers understand how pictures in a series of frames are connected.
+
+# History of Computer Vision:
+# Early Experiments and Discoveries (1950s-1960s):
+. Scientists and engineers have been working on ways for machines to see and understand visual data for about 60 years.
+. The journey began in 1959 when neurophysiologists showed a cat various images to observe its brain responses. They found that the cat’s brain responded first to hard edges or lines.
+. This discovery meant that image processing starts with simple shapes like straight edges.
+Around the same time, the first computer image scanning technology was developed. This technology allowed computers to digitize and acquire images.
+. By 1963, computers could transform two-dimensional images into three-dimensional forms. The 1960s also saw the emergence of AI as an academic field, sparking the quest to solve the human vision problem.
+# Milestones in Text Recognition (1970s-1980s):
+. In 1974, optical character recognition (OCR) technology was introduced. OCR could recognize text printed in any font or typeface.
+. Similarly, intelligent character recognition (ICR) used neural networks to read handwritten text. These technologies have since been used in document processing, vehicle plate recognition, mobile payments, and more.
+. In 1982, neuroscientist David Marr established that vision works hierarchically and introduced algorithms for detecting edges, corners, and curves.
+. Around the same time, computer scientist Kunihiko Fukushima developed the Neocognitron, a network of cells that could recognize patterns and included convolutional layers in a neural network.
+# Advances in Object and Face Recognition (2000s):
+. By 2000, researchers focused on object recognition, and by 2001, real-time face recognition applications emerged.
+. Throughout the 2000s, the standardization of tagging and annotating visual data sets improved.
+. In 2010, the ImageNet data set was released, containing millions of tagged images across a thousand object classes. This data set became a foundation for CNNs and deep learning models used today.
+# Breakthrough with AlexNet (2012)
+. In 2012, a team from the University of Toronto entered a CNN called AlexNet into an image recognition contest.
+. AlexNet significantly reduced the error rate for image recognition, leading to error rates falling to just a few percent. This breakthrough marked a major milestone in the field of computer vision.
+
+
+
