@@ -57,6 +57,20 @@ Around the same time, the first computer image scanning technology was developed
 # Breakthrough with AlexNet (2012)
 . In 2012, a team from the University of Toronto entered a CNN called AlexNet into an image recognition contest.
 . AlexNet significantly reduced the error rate for image recognition, leading to error rates falling to just a few percent. This breakthrough marked a major milestone in the field of computer vision.
-
-
-
+# Applications of Computer Vision:
+# Language Translation
+. Google Translate: This app allows users to point their smartphone camera at a sign in a foreign language and get an instant translation into their preferred language. This feature makes navigating foreign environments much easier.
+# Transportation
+. Self-Driving Vehicles: Computer vision is essential for the development of autonomous cars. It helps the vehicle’s cameras and sensors identify other cars, traffic signs, lane markers, pedestrians, bicycles, and more.
+. This technology is critical for the safety and functionality of self-driving cars.
+# Manufacturing and Quality Control
+. IBM and Verizon Partnership: IBM is using computer vision technology with partners like Verizon to bring intelligent AI to the edge. This collaboration helps automotive manufacturers detect quality defects before vehicles leave the factory, ensuring higher quality standards and reducing recalls.
+# Examples
+# Image Classification
+Image classification involves recognizing and categorizing objects within an image. For instance, it can identify a dog, an apple, or a person’s face. Social media companies might use this to automatically detect and segregate inappropriate images uploaded by users.
+# Object Detection
+Object detection uses image classification to identify and count the occurrences of certain objects in an image or video. Examples include detecting defects on an assembly line or identifying machinery that requires maintenance.
+# Object Tracking
+Object tracking involves following an object once it has been detected, using images captured in sequence or real-time video feeds. Autonomous vehicles, for example, need to classify, detect, and track objects such as pedestrians, other cars, and road infrastructure to avoid collisions and obey traffic laws.
+# Content-Based Image Retrieval
+Content-based image retrieval uses computer vision to search and retrieve images from large data stores based on their content rather than metadata tags. This task can include automatic image annotation, replacing manual image tagging. It is useful for digital asset management systems, increasing the accuracy of search and retrieval.
