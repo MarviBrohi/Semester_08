@@ -74,3 +74,5 @@ Object detection uses image classification to identify and count the occurrences
 Object tracking involves following an object once it has been detected, using images captured in sequence or real-time video feeds. Autonomous vehicles, for example, need to classify, detect, and track objects such as pedestrians, other cars, and road infrastructure to avoid collisions and obey traffic laws.
 # Content-Based Image Retrieval
 Content-based image retrieval uses computer vision to search and retrieve images from large data stores based on their content rather than metadata tags. This task can include automatic image annotation, replacing manual image tagging. It is useful for digital asset management systems, increasing the accuracy of search and retrieval.
+
+
