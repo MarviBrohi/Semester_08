@@ -38,3 +38,9 @@ When the kernel is at the edges of the image, some of its elements might fall ou
 # Output Image:
 The result of the convolution operation is a new image where each pixel’s value has been transformed according to the filter.
 Real-Life-Example: The "Portrait mode" on smartphones uses filtering to blur the background(bokeh effect) while keeping the subject in focus. Another example is noice reduction in low-light photos.
+# 3D Reconstruction:
+The process of capturing the shape and appearance of real objects or scenes to create 3D digital models. This can be done from multiple image, video sequences, or depth sensors.
+Real-Life Example:
+. City-Scale reconstruction: Google Map's 3D view of cities lets you see buildings from any angle.
+. Archaeology: Creating 3D models of ancient ruins to preserve them digitally.
+. Crime Scene Documentation: Police reconstruct crime scenes in 3D for investigation.
