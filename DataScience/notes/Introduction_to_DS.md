@@ -37,57 +37,54 @@ Uber uses data to predict demand and adjust ride prices during peak hours.
 # Applications of Data Science:
 Data Science is used in many industries.
 1. Healthcare
-    .Disease prediction
-    .Medical image analysis
-    .Drug discovery
+    - Disease prediction
+    - Medical image analysis
+    - Drug discovery
 Example:
 Analyzing X-ray images to detect pneumonia.
 2. Finance
-    Fraud detection
-    Credit scoring
-    Stock market prediction
+    - Fraud detection
+    - Credit scoring
+    - Stock market prediction
 Example:
 Banks detecting unusual transactions in real time.
 3. E-Commerce
-    Product recommendation
-    Customer segmentation
-    Demand forecasting
+    - Product recommendation
+    - Customer segmentation
+    - Demand forecasting
 Example:
 Suggesting “Frequently Bought Together” products.
 4. Social Media
-    Sentiment analysis
-    Face recognition
-    Content recommendation
+    - Sentiment analysis
+    - Face recognition
+    - Content recommendation
 Example:
 Instagram suggests posts based on your likes and interactions.
 5. Education
-    Student performance prediction
-    Personalized learning systems
-Example:
-Online platforms suggesting practice questions based on student mistakes.
+    - Student performance prediction
+    - Personalized learning systems  
+Example:Online platforms suggesting practice questions based on student mistakes.
 6. Transportation
-    Traffic prediction
-    Route optimization
-    Autonomous vehicles
-Example:
-Google Maps predicting traffic congestion.
+    - Traffic prediction
+    - Route optimization
+    - Autonomous vehicles  
+Example:Google Maps predicting traffic congestion.
 7. Cybersecurity:
-    Intrusion detection
-    Malware detection
-    Risk assessment
-Example:
-Systems detecting abnormal login attempts.
-5. Real-World Case Study Example
-Example: Online Shopping Platform
-Problem:
-    Customers leave the website without purchasing.
-    Solution Using Data Science:
-    Collect user behavior data
-    Analyze browsing patterns
-    Build recommendation system
-    Suggest relevant products
-Result:
-    Increased sales
-    Better customer retention
-    Higher satisfaction
+    - Intrusion detection
+    - Malware detection
+    - Risk assessment  
+Example:Systems detecting abnormal login attempts.  
+5. Real-World Case Study Example  
+Example: Online Shopping Platform  
+Problem:  
+    - Customers leave the website without purchasing.
+    - Solution Using Data Science:
+    - Collect user behavior data
+    - Analyze browsing patterns
+    - Build recommendation system
+    - Suggest relevant products  
+Result:  
+    - Increased sales
+    - Better customer retention
+    - Higher satisfaction
 
