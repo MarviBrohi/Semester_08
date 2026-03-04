@@ -146,8 +146,8 @@ It is an important steps as it visualizes data to understand its main features, 
 - **Data Cleaning:** To clean the data by identifying and addressing missing values, inconsistent data types, and other erros. It is a critical step as it ensures that the data is accurate and reliable.
 - **Statistical Analysis:** Identifying data correlations, trends, and patterns by applying various statistical techniques, such as hypothesis testing, regression analysis, correlation analysis, and clustering.
 - **Data Visualization:** Creating visual representations of the data to identify patterns and trends. 
-- **Detect Outliers:** Outliers are data points that are significantly different from the rest of the data. Identifying outliers is important in EDA in data mining, as they can skew the analysis results. Different methods can be used to identify outliers, such as box plots, scatter plots, and statistical methods.
--**Data Transformation** The process of converting raw data into a clean, organized format suitable for analysis. Think of it as "data preparation" - getting your ingredients ready before cooking!
+- **Detect Outliers:** Outliers are data points that are significantly different from the rest of the data. Identifying outliers is important in EDA in data mining, as they can skew the analysis results. Different methods can be used to identify outliers, such as box plots, scatter plots, and statistical methods.  
+-**Data Transformation** The process of converting raw data into a clean, organized format suitable for analysis. Think of it as "data preparation" - getting your ingredients ready before cooking!  
 -**Results Communication** The final step where you translate your analysis into insights that others can understand and act upon.
 # Statistics:
 Collecting, analyzing, interpreting, presenting, and organinzing data to make informed decisions and draw meaningful conclusions.
@@ -157,7 +157,7 @@ Collecting, analyzing, interpreting, presenting, and organinzing data to make in
 1.**Measure of Central Tendency** It descibes the central position within dataset.
 - Mean
 - median
-- mode
+- mode  
 2.**Measure of Variables** It is not only descibes the central position but also how it spreadout is important distribution of observations in a dataset. It identifies outliers and accessing model assumptions and understanding data variability in relation to its mean.
 - Range: Describes the difference between largest and the smallest data points in our dataset. Bigger range has more spread and variance.
 - Variance: Average squared deviation from the mean. calculated by finding the difference between every data point and the average(mean).
