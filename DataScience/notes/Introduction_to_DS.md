@@ -158,8 +158,8 @@ Collecting, analyzing, interpreting, presenting, and organinzing data to make in
 - Mean
 - median
 - mode  
+
 2.**Measure of Variables** It is not only descibes the central position but also how it spreadout is important distribution of observations in a dataset. It identifies outliers and accessing model assumptions and understanding data variability in relation to its mean.
 - Range: Describes the difference between largest and the smallest data points in our dataset. Bigger range has more spread and variance.
 - Variance: Average squared deviation from the mean. calculated by finding the difference between every data point and the average(mean).
 - Standard Deviation: Widely used to measure the extent of variation and dispersion in data. It is important when accessing model performance or comparing datasets with different means.
- 
