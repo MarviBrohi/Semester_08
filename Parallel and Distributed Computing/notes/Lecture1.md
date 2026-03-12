@@ -7,6 +7,9 @@ Real-Life-Example:
 - Communicating: Sending an email
 
 # Trends of Computing
+
+# Distributed Computing:
+
 - A group of computers working together that looks like One computer to the user.
 - Several independent computers, each with its own memory, communicating by passing messages.
 - Analogy: Think of a restaurant chain like Domino's. You order online, and the system finds the nearest store to make your pizza. You don't know or care which store made it - it just works!  
@@ -45,12 +48,13 @@ Example: Social media where users are worldwide
 Example: calculating Pi value to billions of digits.  
 - Data Intensive: Tasks dealing with huge files.  
 Example:Facebook processing millions of photos.  
-# 3.Robustness (Reliability):
+3.Robustness (Reliability):
 - No Single Point of Failure (SPOF): If one computer fails, the system still works
 - Task Reassignment: Other computers can take over the failed computer's work  
 Real Example: If one Google server fails, you still can search because other servers take over.
 # Distributed Applications
 Two Main Types:
+
 1. Client-Server (Traditional):
 - Server manages resources centrally
 - Clients request services
@@ -59,41 +63,44 @@ Example: College website - central server, many students access it.
 - All computers are equal
 - More "truly" distributed
 Example: Torrent downloads - you download from many users simultaneously.
+
 # Cluster Computing:
+
 A group of SAME-TYPE of computers in ONE ROOM, connected with FAST cables, working as ONE SYSTEM.
 - Like 20 identical chefs working in one kitchen, all wearning same uniform, using same ingredients, following same head chef.  
 
 # Key Components of Cloud Computing:
+
 - Multiple Standalone Computers: Regular computers, each can work alone.
 - Operating System: usually same OS on all(all linux or all windows).
 - High-Performance Interconnects: Very fast cables connecting them.
 - Middleware: Software that makes them work together.
 - Parallel Programming Environments: Tools to writr programs that use all computers.
 - Applications: The actual work being done.
+
 # Cluster Characteristics:
+
 - Network: Faster than regular LAN(Local Area Network)
 - Communication: Very fast, low delay(low latency)
 - Coupling: Loosely coupled(not as tight as multi-core processors)  
+
 # Types of Clusters
+
 1. High Availability (Failover) Clusters
 - Purpose: Keep services running even if some computers fail.  
 Real-life Example:
 - Airline reservation system
 - If one server fails, another takes over immediately
-- Passengers keep booking tickets without noticing any problem
-
-2.Load Balancing Clusters
-
-- Purpose: Spread work evenly across all computers  
+- Passengers keep booking tickets without noticing any problem  
+2.Load Balancing Clusters  
+- Purpose: Spread work evenly across all computers   
 Real Example:
 - Flipkart during Big Billion Day sale
 - Millions of users are distributed across many servers
-- No single server gets overloaded
-
-3.Parallel/Distributed Processing Clusters
-
+- No single server gets overloaded  
+3.Parallel/Distributed Processing Clusters  
 - Purpose: Solve big problems by dividing work.  
-Real Example:
+Real Example:  
 - Weather forecasting
 - Each computer calculates weather for one region
 - All results combined for full forecast
@@ -131,6 +138,7 @@ Connecting different types of computers from different places to create ONE BIG 
 - Drug Research:Simulate molecule interactions using computers worldwide.
 
 # Types of Grids:
+
 1.Computational Grid:
 Processing power for HTC(High Throughput) and HPC(High Performance)
 . SETI@Home-using idle home computers to search for aliens.
