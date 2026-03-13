@@ -15,6 +15,7 @@ Real-Life-Example:
 - Analogy: Think of a restaurant chain like Domino's. You order online, and the system finds the nearest store to make your pizza. You don't know or care which store made it - it just works!  
 - Operating System Concept: The processors communicate with  one another through various communication lines,such as high-speed buses or telephone lines.
 Each processor has its own local memory.
+![Distributed computin](image.png)
 
 # Computers in a Distributed System
 Workstations: End-users use these for daily work(Computer labs).  
@@ -55,14 +56,95 @@ Real Example: If one Google server fails, you still can search because other ser
 # Distributed Applications
 Two Main Types:
 
-1. Client-Server (Traditional):
+1.Client-Server (Traditional):
 - Server manages resources centrally
 - Clients request services
 Example: College website - central server, many students access it.
-2. Peer-to-Peer (Modern):
+![Client Server](image-1.png)
+
+2.Peer-to-Peer (Modern):
+
 - All computers are equal
 - More "truly" distributed
 Example: Torrent downloads - you download from many users simultaneously.
+![Peer-to-Peer](image-2.png)
+
+# Centralized vs Distributed Computing
+1. Centralized Computing  
+Definition:Centralized computing is a computing model where all processing, data storage, and control are handled by one central computer (usually a mainframe server).
+All other devices connected to it act as terminals or clients and depend on the central system to perform tasks.  
+In this system, the central computer performs all major operations such as:  
+
+- data processing
+- storage
+- application execution
+- system management  
+
+The terminals simply send requests and receive results.
+
+**How it Works**
+
+- Users connect to a central mainframe computer.
+- The central computer processes all tasks.
+- Results are sent back to the users.
+
+In the diagram you provided, multiple terminals are connected to one mainframe computer, which performs all the processing.  
+Example  
+Older banking systems used centralized computing where all branch computers were connected to one central server that processed transactions.  
+
+Another simple example is a school computer lab connected to one powerful server that controls applications and storage.  
+
+Advantages  
+
+- easier to manage
+- better security control
+- centralized data storage
+
+Disadvantages
+
+- single point of failure
+- performance bottleneck if many users connect
+- limited scalability
+
+2.Distributed Computing  
+Definition:Distributed computing is a computing model where multiple computers (nodes) work together over a network to perform tasks.  
+Instead of relying on one central computer, the workload is shared among many machines.  
+
+Each computer in the network can:
+
+- process data
+- store information
+- communicate with other computers
+
+**How it Works**
+
+- Multiple computers are connected through a network link.
+- Tasks are divided into smaller parts.
+- Each computer processes its part of the task.
+- Results are combined to produce the final output.
+
+In the diagram, several workstations and network hosts are connected and share tasks.
+
+Example
+
+Modern internet services like Google use distributed computing. When you search something, thousands of servers work together to return results quickly.
+
+Another example is cloud computing systems where many servers process user requests simultaneously.
+
+Advantages
+
+- faster processing
+- better scalability
+- no single point of failure
+- efficient resource utilization
+
+Disadvantages
+
+- more complex system design
+- network dependency
+- harder to manage
+
+![Centralized vs Distributed](image-3.png)
 
 # Cluster Computing:
 
@@ -83,6 +165,8 @@ A group of SAME-TYPE of computers in ONE ROOM, connected with FAST cables, worki
 - Network: Faster than regular LAN(Local Area Network)
 - Communication: Very fast, low delay(low latency)
 - Coupling: Loosely coupled(not as tight as multi-core processors)  
+
+![Cluster Computing](image-4.png)
 
 # Types of Clusters
 
