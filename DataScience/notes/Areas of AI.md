@@ -92,5 +92,5 @@ Examples: MYCIN diagnoses infections better than some doctors; bank loan approva
 
 - Servo-Intelligent: Adaptive with sensors; e.g., da Vinci surgery robot follows tissue movement.
 - Non-Servo: Fixed/repetitive; e.g., car factory welders.
-Components: Arms/tools, motors, sensors, controllers.
+- Components: Arms/tools, motors, sensors, controllers.
 - General Agents: Handle uncertainty; e.g., drones reroute around weather/obstacles.
